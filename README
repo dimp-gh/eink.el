@@ -12,6 +12,10 @@ are underlined.
 To install, copy colors/eink.vim to ~/.vim/colors/ (or wherever you're
 keeping color themes).
 
+[ vundle installation ]
+If you already have vundle, simply add the below line to your .vimrc:
+"Bundle 'git@bitbucket.org:kisom/eink.vim.git'"
+
 [ license ]
 eink.vim is released under the ISC license.
 
