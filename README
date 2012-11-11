@@ -1,0 +1,24 @@
+[ eink.vim ]
+
+This is a vim color theme designed to emulate reading on an eink device.
+It supports both a light background (which is the normal eink-style
+reading mode) and a dark background for late night hacking.
+
+In general, there is no syntax highlighting. Notably, however, comments
+are slightly dimmed just enough to be distinguishable and string literals
+are underlined.
+
+[ installation ]
+To install, copy colors/eink.vim to ~/.vim/colors/ (or wherever you're
+keeping color themes).
+
+[ license ]
+eink.vim is released under the ISC license.
+
+[ family tree ]
+eink.vim was originally based on kyle.vim, my custom colors.
+kyle.vim in turn was largely taken from jcs' jcs.vim[1]. color
+codes were inspired by a number of themes, namely wombat256.vim.
+
+[ references ]
+[1] https://raw.github.com/jcs/dotfiles/master/.vim/colors/jcs.vim
