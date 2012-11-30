@@ -106,7 +106,7 @@ else
     hi Search       gui=reverse                         guifg=NONE
     hi MoreMsg      gui=bold                            guifg=NONE
     hi ModeMsg      gui=bold                            guifg=NONE
-    hi LineNr       gui=NONE                            guifg=gray11
+    hi LineNr       gui=NONE                            guifg=gray60
     hi StatusLine   gui=bold,reverse                    guifg=NONE
     hi StatusLineNC gui=reverse                         guifg=NONE
     hi VertSplit    gui=reverse                         guifg=NONE
@@ -149,7 +149,7 @@ else
     hi Search       gui=reverse                         guifg=NONE
     hi MoreMsg      gui=bold                            guifg=NONE
     hi ModeMsg      gui=bold                            guifg=NONE
-    hi LineNr       gui=NONE                            guifg=gray80
+    hi LineNr       gui=NONE                            guifg=gray30
     hi StatusLine   gui=bold,reverse                    guifg=NONE
     hi StatusLineNC gui=reverse                         guifg=NONE
     hi VertSplit    gui=reverse                         guifg=NONE
