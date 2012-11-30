@@ -2,7 +2,8 @@
 
 This is a vim color theme designed to emulate reading on an eink device.
 It supports both a light background (which is the normal eink-style
-reading mode) and a dark background for late night hacking.
+reading mode) and a dark background for late night hacking. It uses
+256-color mode, and supports both the terminal and the gui.
 
 In general, there is no syntax highlighting. Notably, however, comments
 are slightly dimmed just enough to be distinguishable and string literals
