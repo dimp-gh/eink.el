@@ -136,7 +136,7 @@ else
     hi Identifier   gui=NONE            guibg=NONE      guifg=NONE
     hi Statement    gui=NONE            guibg=NONE      guifg=NONE
     hi Ignore       gui=bold                            guifg=NONE
-    hi String       term=underline                      guifg=NONE
+    hi String       term=italic                         guifg=NONE
     hi ErrorMsg     gui=reverse         guibg=NONE      guifg=firebrick3
     hi Error        gui=reverse         guibg=NONE      guifg=firebrick3
     hi Todo         gui=bold,standout   guibg=NONE      guifg=darkgoldenrod2
@@ -179,7 +179,7 @@ else
     hi Identifier   gui=NONE            guibg=NONE      guifg=NONE
     hi Statement    gui=NONE            guibg=NONE      guifg=NONE
     hi Ignore       gui=bold                            guifg=NONE
-    hi String       gui=underline                       guifg=NONE
+    hi String       gui=italic                          guifg=NONE
     hi ErrorMsg     gui=reverse         guibg=NONE      guifg=firebrick3
     hi Error        gui=reverse         guibg=NONE      guifg=firebrick3
     hi Todo         gui=bold,standout   guibg=NONE      guifg=darkgoldenrod2
