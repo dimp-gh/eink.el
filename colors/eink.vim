@@ -100,7 +100,7 @@ if !has('gui_running')
   endif
 else
   if &background == "light"
-    hi Normal       gui=NONE            guibg=gray90    guifg=gray11
+    hi Normal       gui=NONE            guibg=snow1     guifg=gray11
     hi SpecialKey   gui=bold                            guifg=NONE
     hi IncSearch    gui=reverse                         guifg=NONE
     hi Search       gui=reverse                         guifg=NONE
