@@ -55,7 +55,6 @@ if !has('gui_running')
     hi MatchParen   cterm=bold          ctermbg=250     ctermfg=NONE
     hi ColorColumn                                      ctermbg=255
   else
-    let s:background
     hi Normal       cterm=NONE          ctermbg=234     ctermfg=250
     hi SpecialKey   cterm=bold                          ctermfg=NONE
     hi IncSearch    cterm=reverse                       ctermfg=NONE
