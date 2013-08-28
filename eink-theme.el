@@ -55,9 +55,11 @@
  '(gnus-header-name ((t (:foreground "#262626"))))
  '(gnus-header-subject ((t (:foreground "#262626"))))
  '(slime-repl-inputed-output-face ((t (:foreground "#262626"))))
- '(default ((t (:background "white smoke" :foreground "#262626"))))
  '(ido-subdir ((t (:foreground "#262626"))))
  '(eshell-prompt ((t (:foreground "#262626" :weight bold))))
- '(custom-variable-tag ((t (:foreground "#262626" :weight bold)))))
+ '(custom-variable-tag ((t (:foreground "#262626" :weight bold))))
+ '(default ((t (:background "white smoke" :foreground "#262626"))))
+ '(mode-line ((t (:background "grey90" :foreground "#262626" :box (:line-width -1 :style released-button)))))
+)
 
 (provide-theme 'eink)
