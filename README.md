@@ -6,5 +6,12 @@ This is a port of eink.vim [color theme](https://bitbucket.org/kisom/eink.vim) f
 TODO:
 * [X] Port theme
 * [ ] Pull request to melpa
-* [ ] Write installation guide
+* [X] Write installation guide
 * [ ] Add a screenshot
+
+
+Usage
+--------------
+
+Copy `eink-theme.el` file right into `~/.emacs.d/themes` directory (create this one if you haven't already).
+Then you can load this theme by invoking `M-x load-theme` command.
