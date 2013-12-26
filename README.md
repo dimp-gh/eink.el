@@ -21,4 +21,4 @@ Screenshots
 ---------------
 
 ![](https://raw.github.com/dmand/eink.el/master/screens/screen-python.png)
-![](https://raw.github.com/osener/eink.el/master/screens/screen-c.png)
+![](https://raw.github.com/dmand/eink.el/master/screens/screen-c.png)
