@@ -15,3 +15,10 @@ Usage
 
 Copy `eink-theme.el` file right into `~/.emacs.d/themes` directory (create this one if you haven't already).
 Then you can load this theme by invoking `M-x load-theme` command.
+
+
+Screenshots
+---------------
+
+![](https://raw.github.com/dmand/eink.el/master/screens/screen-python.png)
+![](https://raw.github.com/osener/eink.el/master/screens/screen-c.png)
