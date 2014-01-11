@@ -1,13 +1,24 @@
 eink.el
 ===========
 
-This is a port of eink.vim [color theme](https://bitbucket.org/kisom/eink.vim) for Emacs. Or, at least, an attempt to make a port.
+Eink is a minimalistic color theme for Emacs.
+
+History
+---------
+
+At some point i was really sick about my code being full of colorized bullshit.
+So i created this color theme. Just black letters on the white background, that was all i needed. But after a week of usage, i turned syntax highlightning on for string literals and comments, making them grey.
+
+Theme works just fine for me (i mainly use python-, haskell-, scala- and org- modes). If you have any issues with coloring in other modes -- feel free to ask me to fix it.
+
+TODO
+------
 
 TODO:
-* [X] Port theme
+* [X] Create theme
 * [ ] Pull request to melpa
 * [X] Write installation guide
-* [ ] Add a screenshot
+* [X] Add a few screenshots
 
 
 Usage
